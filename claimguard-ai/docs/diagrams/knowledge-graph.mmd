@@ -1,0 +1,6 @@
+graph TD
+Customer-->HAS_POLICY-->Policy
+Customer-->SUBMITTED-->Claim
+Claim-->INVOLVED_IN-->Accident
+Accident-->OCCURRED_AT-->Location
+Claim-->SUPPORTED_BY-->Document

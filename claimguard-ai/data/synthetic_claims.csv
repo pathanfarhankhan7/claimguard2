@@ -1,0 +1,101 @@
+claim_id,claim_text,claim_type,fraud_label,customer_id,policy_id,claim_amount,incident_date,claim_date,location,previous_claim_count,language,dataset_label
+C001,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU001,POL001,10073,2026-09-02,2026-10-02,Hyderabad,1,hi,Synthetic Demonstration Data
+C002,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU002,POL002,10146,2026-09-03,2026-10-03,Hyderabad,2,te,Synthetic Demonstration Data
+C003,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU003,POL003,10219,2026-09-04,2026-10-04,Hyderabad,3,en,Synthetic Demonstration Data
+C004,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU004,POL004,10292,2026-09-05,2026-10-05,Hyderabad,0,hi,Synthetic Demonstration Data
+C005,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU005,POL005,10365,2026-09-06,2026-10-06,Hyderabad,1,te,Synthetic Demonstration Data
+C006,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU006,POL006,10438,2026-09-07,2026-10-07,Hyderabad,2,en,Synthetic Demonstration Data
+C007,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,1,CU007,POL007,10511,2026-09-08,2026-10-08,Hyderabad,3,hi,Synthetic Demonstration Data
+C008,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU008,POL008,10584,2026-09-09,2026-10-09,Hyderabad,0,te,Synthetic Demonstration Data
+C009,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU009,POL009,10657,2026-09-10,2026-10-10,Hyderabad,1,en,Synthetic Demonstration Data
+C010,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU010,POL010,10730,2026-09-11,2026-10-11,Hyderabad,2,hi,Synthetic Demonstration Data
+C011,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU011,POL011,10803,2026-09-12,2026-10-12,Hyderabad,3,te,Synthetic Demonstration Data
+C012,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU012,POL012,10876,2026-09-13,2026-10-13,Hyderabad,0,en,Synthetic Demonstration Data
+C013,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU013,POL013,10949,2026-09-14,2026-10-14,Hyderabad,1,hi,Synthetic Demonstration Data
+C014,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,1,CU014,POL014,11022,2026-09-15,2026-10-15,Hyderabad,2,te,Synthetic Demonstration Data
+C015,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU015,POL015,11095,2026-09-16,2026-10-16,Hyderabad,3,en,Synthetic Demonstration Data
+C016,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU016,POL016,11168,2026-09-17,2026-10-17,Hyderabad,0,hi,Synthetic Demonstration Data
+C017,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU017,POL017,11241,2026-09-18,2026-10-18,Hyderabad,1,te,Synthetic Demonstration Data
+C018,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU018,POL018,11314,2026-09-19,2026-10-19,Hyderabad,2,en,Synthetic Demonstration Data
+C019,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU019,POL019,11387,2026-09-20,2026-10-20,Hyderabad,3,hi,Synthetic Demonstration Data
+C020,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU020,POL020,11460,2026-09-21,2026-10-21,Hyderabad,0,te,Synthetic Demonstration Data
+C021,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,1,CU021,POL021,11533,2026-09-22,2026-10-22,Hyderabad,1,en,Synthetic Demonstration Data
+C022,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU022,POL022,11606,2026-09-23,2026-10-23,Hyderabad,2,hi,Synthetic Demonstration Data
+C023,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU023,POL023,11679,2026-09-24,2026-10-24,Hyderabad,3,te,Synthetic Demonstration Data
+C024,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU024,POL024,11752,2026-09-25,2026-10-25,Hyderabad,0,en,Synthetic Demonstration Data
+C025,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU025,POL025,11825,2026-09-26,2026-10-26,Hyderabad,1,hi,Synthetic Demonstration Data
+C026,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU026,POL026,11898,2026-09-27,2026-10-27,Hyderabad,2,te,Synthetic Demonstration Data
+C027,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU027,POL027,11971,2026-09-28,2026-10-28,Hyderabad,3,en,Synthetic Demonstration Data
+C028,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,1,CU028,POL028,12044,2026-09-01,2026-10-01,Hyderabad,0,hi,Synthetic Demonstration Data
+C029,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU029,POL029,12117,2026-09-02,2026-10-02,Hyderabad,1,te,Synthetic Demonstration Data
+C030,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU030,POL030,12190,2026-09-03,2026-10-03,Hyderabad,2,en,Synthetic Demonstration Data
+C031,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU031,POL031,12263,2026-09-04,2026-10-04,Hyderabad,3,hi,Synthetic Demonstration Data
+C032,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU032,POL032,12336,2026-09-05,2026-10-05,Hyderabad,0,te,Synthetic Demonstration Data
+C033,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU033,POL033,12409,2026-09-06,2026-10-06,Hyderabad,1,en,Synthetic Demonstration Data
+C034,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU034,POL034,12482,2026-09-07,2026-10-07,Hyderabad,2,hi,Synthetic Demonstration Data
+C035,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,1,CU035,POL035,12555,2026-09-08,2026-10-08,Hyderabad,3,te,Synthetic Demonstration Data
+C036,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU036,POL036,12628,2026-09-09,2026-10-09,Hyderabad,0,en,Synthetic Demonstration Data
+C037,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU037,POL037,12701,2026-09-10,2026-10-10,Hyderabad,1,hi,Synthetic Demonstration Data
+C038,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU038,POL038,12774,2026-09-11,2026-10-11,Hyderabad,2,te,Synthetic Demonstration Data
+C039,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU039,POL039,12847,2026-09-12,2026-10-12,Hyderabad,3,en,Synthetic Demonstration Data
+C040,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU040,POL040,12920,2026-09-13,2026-10-13,Hyderabad,0,hi,Synthetic Demonstration Data
+C041,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU041,POL041,12993,2026-09-14,2026-10-14,Hyderabad,1,te,Synthetic Demonstration Data
+C042,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,1,CU042,POL042,13066,2026-09-15,2026-10-15,Hyderabad,2,en,Synthetic Demonstration Data
+C043,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU043,POL043,13139,2026-09-16,2026-10-16,Hyderabad,3,hi,Synthetic Demonstration Data
+C044,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU044,POL044,13212,2026-09-17,2026-10-17,Hyderabad,0,te,Synthetic Demonstration Data
+C045,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU045,POL045,13285,2026-09-18,2026-10-18,Hyderabad,1,en,Synthetic Demonstration Data
+C046,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU046,POL046,13358,2026-09-19,2026-10-19,Hyderabad,2,hi,Synthetic Demonstration Data
+C047,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU047,POL047,13431,2026-09-20,2026-10-20,Hyderabad,3,te,Synthetic Demonstration Data
+C048,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU048,POL048,13504,2026-09-21,2026-10-21,Hyderabad,0,en,Synthetic Demonstration Data
+C049,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,1,CU049,POL049,13577,2026-09-22,2026-10-22,Hyderabad,1,hi,Synthetic Demonstration Data
+C050,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU050,POL050,13650,2026-09-23,2026-10-23,Hyderabad,2,te,Synthetic Demonstration Data
+C051,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU051,POL051,13723,2026-09-24,2026-10-24,Hyderabad,3,en,Synthetic Demonstration Data
+C052,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU052,POL052,13796,2026-09-25,2026-10-25,Hyderabad,0,hi,Synthetic Demonstration Data
+C053,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU053,POL053,13869,2026-09-26,2026-10-26,Hyderabad,1,te,Synthetic Demonstration Data
+C054,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU054,POL054,13942,2026-09-27,2026-10-27,Hyderabad,2,en,Synthetic Demonstration Data
+C055,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU055,POL055,14015,2026-09-28,2026-10-28,Hyderabad,3,hi,Synthetic Demonstration Data
+C056,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,1,CU056,POL056,14088,2026-09-01,2026-10-01,Hyderabad,0,te,Synthetic Demonstration Data
+C057,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU057,POL057,14161,2026-09-02,2026-10-02,Hyderabad,1,en,Synthetic Demonstration Data
+C058,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU058,POL058,14234,2026-09-03,2026-10-03,Hyderabad,2,hi,Synthetic Demonstration Data
+C059,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU059,POL059,14307,2026-09-04,2026-10-04,Hyderabad,3,te,Synthetic Demonstration Data
+C060,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU060,POL060,14380,2026-09-05,2026-10-05,Hyderabad,0,en,Synthetic Demonstration Data
+C061,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU061,POL061,14453,2026-09-06,2026-10-06,Hyderabad,1,hi,Synthetic Demonstration Data
+C062,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU062,POL062,14526,2026-09-07,2026-10-07,Hyderabad,2,te,Synthetic Demonstration Data
+C063,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,1,CU063,POL063,14599,2026-09-08,2026-10-08,Hyderabad,3,en,Synthetic Demonstration Data
+C064,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU064,POL064,14672,2026-09-09,2026-10-09,Hyderabad,0,hi,Synthetic Demonstration Data
+C065,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU065,POL065,14745,2026-09-10,2026-10-10,Hyderabad,1,te,Synthetic Demonstration Data
+C066,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU066,POL066,14818,2026-09-11,2026-10-11,Hyderabad,2,en,Synthetic Demonstration Data
+C067,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU067,POL067,14891,2026-09-12,2026-10-12,Hyderabad,3,hi,Synthetic Demonstration Data
+C068,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU068,POL068,14964,2026-09-13,2026-10-13,Hyderabad,0,te,Synthetic Demonstration Data
+C069,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU069,POL069,15037,2026-09-14,2026-10-14,Hyderabad,1,en,Synthetic Demonstration Data
+C070,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,1,CU070,POL070,15110,2026-09-15,2026-10-15,Hyderabad,2,hi,Synthetic Demonstration Data
+C071,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU071,POL071,15183,2026-09-16,2026-10-16,Hyderabad,3,te,Synthetic Demonstration Data
+C072,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU072,POL072,15256,2026-09-17,2026-10-17,Hyderabad,0,en,Synthetic Demonstration Data
+C073,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU073,POL073,15329,2026-09-18,2026-10-18,Hyderabad,1,hi,Synthetic Demonstration Data
+C074,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU074,POL074,15402,2026-09-19,2026-10-19,Hyderabad,2,te,Synthetic Demonstration Data
+C075,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU075,POL075,15475,2026-09-20,2026-10-20,Hyderabad,3,en,Synthetic Demonstration Data
+C076,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU076,POL076,15548,2026-09-21,2026-10-21,Hyderabad,0,hi,Synthetic Demonstration Data
+C077,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,1,CU077,POL077,15621,2026-09-22,2026-10-22,Hyderabad,1,te,Synthetic Demonstration Data
+C078,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU078,POL078,15694,2026-09-23,2026-10-23,Hyderabad,2,en,Synthetic Demonstration Data
+C079,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU079,POL079,15767,2026-09-24,2026-10-24,Hyderabad,3,hi,Synthetic Demonstration Data
+C080,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU080,POL080,15840,2026-09-25,2026-10-25,Hyderabad,0,te,Synthetic Demonstration Data
+C081,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU081,POL081,15913,2026-09-26,2026-10-26,Hyderabad,1,en,Synthetic Demonstration Data
+C082,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU082,POL082,15986,2026-09-27,2026-10-27,Hyderabad,2,hi,Synthetic Demonstration Data
+C083,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU083,POL083,16059,2026-09-28,2026-10-28,Hyderabad,3,te,Synthetic Demonstration Data
+C084,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,1,CU084,POL084,16132,2026-09-01,2026-10-01,Hyderabad,0,en,Synthetic Demonstration Data
+C085,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU085,POL085,16205,2026-09-02,2026-10-02,Hyderabad,1,hi,Synthetic Demonstration Data
+C086,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU086,POL086,16278,2026-09-03,2026-10-03,Hyderabad,2,te,Synthetic Demonstration Data
+C087,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU087,POL087,16351,2026-09-04,2026-10-04,Hyderabad,3,en,Synthetic Demonstration Data
+C088,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU088,POL088,16424,2026-09-05,2026-10-05,Hyderabad,0,hi,Synthetic Demonstration Data
+C089,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU089,POL089,16497,2026-09-06,2026-10-06,Hyderabad,1,te,Synthetic Demonstration Data
+C090,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU090,POL090,16570,2026-09-07,2026-10-07,Hyderabad,2,en,Synthetic Demonstration Data
+C091,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,1,CU091,POL091,16643,2026-09-08,2026-10-08,Hyderabad,3,hi,Synthetic Demonstration Data
+C092,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU092,POL092,16716,2026-09-09,2026-10-09,Hyderabad,0,te,Synthetic Demonstration Data
+C093,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU093,POL093,16789,2026-09-10,2026-10-10,Hyderabad,1,en,Synthetic Demonstration Data
+C094,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU094,POL094,16862,2026-09-11,2026-10-11,Hyderabad,2,hi,Synthetic Demonstration Data
+C095,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,0,CU095,POL095,16935,2026-09-12,2026-10-12,Hyderabad,3,te,Synthetic Demonstration Data
+C096,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU096,POL096,17008,2026-09-13,2026-10-13,Hyderabad,0,en,Synthetic Demonstration Data
+C097,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU097,POL097,17081,2026-09-14,2026-10-14,Hyderabad,1,hi,Synthetic Demonstration Data
+C098,"నా వాహనం 12/10/2026 న హైదరాబాద్ లో ప్రమాదానికి గురైంది మరియు నేను క్లెయిమ్ సమర్పించాను.",AUTO,1,CU098,POL098,17154,2026-09-15,2026-10-15,Hyderabad,2,te,Synthetic Demonstration Data
+C099,"My Honda City met with an accident near Hyderabad on 15/09/2026. Police report filed next day.",AUTO,0,CU099,POL099,17227,2026-09-16,2026-10-16,Hyderabad,3,en,Synthetic Demonstration Data
+C100,"मेरी कार 10/10/2026 को दिल्ली में चोरी हो गई और मैंने तुरंत दावा दर्ज किया।",AUTO,0,CU100,POL100,17300,2026-09-17,2026-10-17,Hyderabad,0,hi,Synthetic Demonstration Data

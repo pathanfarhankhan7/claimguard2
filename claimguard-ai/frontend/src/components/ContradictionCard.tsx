@@ -1,0 +1,1 @@
+export const ContradictionCard = () => null
