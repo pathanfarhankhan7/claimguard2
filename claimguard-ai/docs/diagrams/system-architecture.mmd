@@ -1,0 +1,6 @@
+flowchart TD
+    FE[React Frontend] --> API[FastAPI Backend]
+    API --> NLP[NLP Pipeline Services]
+    API --> DB[(PostgreSQL)]
+    API --> RAG[Policy RAG]
+    NLP --> KG[Knowledge Graph]
